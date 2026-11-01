@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is something that someone might be reading...
 
 <!--
 **DavidThode/DavidThode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
